@@ -29,7 +29,7 @@ function App() {
         </form>
       </center>
     </div>
-  );
+  )
 }
 
 export default App;
